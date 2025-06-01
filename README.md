@@ -49,28 +49,17 @@ They don’t fight for pride.
 
 ## 🧍‍♂️ Characters
 
-| Warrior | Description |
-|--------|-------------|
-| ![Player 1](./assets/players/player1.png) | **KAZU** — Master of Wind Blades, fights for legacy. |
-| ![Player 2](./assets/players/player2.png) | **AYA** — Agile Shadow Walker, protector of memory. |
-| ![Player 3](./assets/players/player3.png) | **TARO** — Flame Bearer, forged in loyalty. |
+![Image](https://github.com/user-attachments/assets/c77f9319-97c0-417e-b482-10c0dc53ce4b)  ![Image](https://github.com/user-attachments/assets/fb4817d8-fadc-4492-8fb4-e65abab25ffd)  ![Image](https://github.com/user-attachments/assets/ac78866c-bd51-46de-9be2-cdb678263c72)
 
 ## 🗡️ Opponents
 
-| Opponent | Description |
-|----------|-------------|
-| ![Opponent 1](./assets/opponents/opponent1.png) | **RAIJIN** — Storm-wielder, believes in transcendence. |
-| ![Opponent 2](./assets/opponents/opponent2.png) | **SHURA** — Cold and calculating, seeks the scroll’s total truth. |
+![Image](https://github.com/user-attachments/assets/88dfe503-cdc7-49f4-8c34-b176ec527431)  ![Image](https://github.com/user-attachments/assets/ce011ec2-8ffd-4a1e-be00-a3d9f106b0b8)
 
 ---
 
 ## 🏟️ Arenas
 
-| Arena | Description |
-|-------|-------------|
-| ![Arena 1](./assets/arenas/arena1.png) | **Temple of Echoes** — Where silence speaks louder than swords. |
-| ![Arena 2](./assets/arenas/arena2.png) | **Crimson Ruins** — Burnt by betrayal, soaked in memory. |
-| ![Arena 3](./assets/arenas/arena3.png) | **Frozen Peak** — A test of endurance, frozen in time. |
+![Image](https://github.com/user-attachments/assets/3bc8061c-a909-4582-9b9e-75b3d87ed0cb)  ![Image](https://github.com/user-attachments/assets/e3e1d239-1014-41df-8ebd-d5d20ab6c1dc)  ![Image](https://github.com/user-attachments/assets/de8e86bd-b144-45a8-9b90-5d6669c8c56c)
 
 ---
 
@@ -79,4 +68,4 @@ They don’t fight for pride.
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-2. Download Unity supporting version: Unity 2022.2.21f1
+2. Download Unity supporting version: **Unity 2022.2.21f1**
