@@ -22,6 +22,7 @@ prevent the rebirth of a forbidden power.
 They don’t fight for pride.
 **They fight because the scroll was never meant to be read again**.
 
+![Image](https://github.com/user-attachments/assets/373c740f-1fb6-4976-ba45-acc01cb96655)
 
 ## 🧩 Features
 
